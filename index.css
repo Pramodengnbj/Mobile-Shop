@@ -67,7 +67,7 @@ p{
     background: #563434;
 }
 .header{
-    background: radial-gradient(#fff, #ffd6d6);
+    background: radial-gradient(#fff, hsl(229, 42%, 70%));
 }
 .header .row{
     margin-top: 30px;
